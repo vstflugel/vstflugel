@@ -1,1 +1,67 @@
+#include<stdio.h>
+#include<stdlib.h>
 
+typedef struct Node Node;
+
+struct Node
+{
+    int data;
+    Node* next;
+};
+
+Node* create_list()
+{
+     Node* P = (Node*)malloc(sizeof(Node));
+    P->data=0;
+    P->next=NULL;
+    return P;
+}
+
+ void insert_linked(Node* Headptr, int elem)
+ {
+     Node* temp;
+     temp = (Node*)malloc(sizeof(Node));
+     temp = Headptr;
+     while((temp)->next!= NULL)
+     {
+         temp = temp->next;
+     }
+     Node* P;
+     P= (Node*)malloc(sizeof(Node));
+     P->data=elem;
+     temp->next=P;
+     P->next = NULL;
+
+ }
+ 
+void print_list(Node* Headptr)
+{
+    Node* temp;
+     temp = (Node*)malloc(sizeof(Node));
+     temp = Headptr->next;
+     while(temp!= NULL)
+     {
+         printf("%d\n",temp->data);
+         temp = temp->next;
+     }
+}
+
+int main()
+{
+    Node* Headptr;
+    Headptr = (Node*)malloc(sizeof(Node));
+    Headptr=create_list();
+    int n;
+    // Enter the number of elements to be inserted in the linked list and then traversed.
+    scanf("%d",&n);
+    for(int i=0;i<n;i++)
+    {
+        int elem;
+        // Enter the element to be inserted in the linked list and in this linked list basically the element inserted will be inserted in the last of the linked list.
+        scanf("%d",&elem);
+        insert_linked(Headptr,elem);
+    }
+    print_list(Headptr);
+    return 0;
+
+}
