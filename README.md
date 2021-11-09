@@ -2,7 +2,7 @@
 <h3 align="center">I'm a CSE sophomore who loves exploring new fields, Pursuing my B.Tech in CSE at IIIT-Hyderabad</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vstflugel&label=Profile%20views&color=0e75b6&style=flat" alt="vstflugel" /> </p>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/7010015-Coffee-Time/attachments/7010015-Coffee-Time?mode=media">
+<img src="https://cdn.dribbble.com/users/1519660/screenshots/4536550/girl-_-laptop.gif" align="right" alt="Logo" width="400" height="300">
 
 
 - 🌱 I’m currently learning **Competetive programming**
