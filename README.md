@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
-<h3 align="center">I'm a CSE sophomore who loves exploring new fields, Pursuing my B.Tech in CSE at IIIT-Hyderabad</h3>
+<h3 align="center">I'm a final year CSE student who loves exploring new fields, Pursuing my B.Tech in CSE at IIIT-Hyderabad</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vstflugel&label=Profile%20views&color=0e75b6&style=flat" alt="vstflugel" /> </p>
 <img src="https://cdn.dribbble.com/users/645994/screenshots/4660095/media/c44bc4915e282175b8fe75f3e8644643.gif" align="right" alt="Logo" width="400" height="300">
