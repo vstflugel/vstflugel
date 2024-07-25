@@ -4,8 +4,6 @@
 <img src="https://cdn.dribbble.com/users/645994/screenshots/4660095/media/c44bc4915e282175b8fe75f3e8644643.gif" align="right" alt="Logo" width="400" height="300">
 
 
-- 🌱
-
 - 📫 How to reach me **vst17march@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
